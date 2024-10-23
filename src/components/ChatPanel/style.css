@@ -1,0 +1,12 @@
+.message-container{
+    height: 56ch;
+}
+
+.chat-list{
+    height: 58ch;
+    overflow-y: scroll;
+}
+
+.chat-list::-webkit-scrollbar{
+    display: none;
+}
